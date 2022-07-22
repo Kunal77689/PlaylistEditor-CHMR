@@ -1,1 +1,6 @@
-
+I created a software for the CHMR MUN RADIO STATION by using Java and MySQL.
+I couldn't add the code because I don't have any permissions from the employer currently. 
+But I can ask for the permissions if needed. There are screen captures of the functioning of the software. 
+This software basically gets all the data entered by the user and displays it in a vertical column as soon as it is entered.
+User can either delete or add more data to it.
+At the end if you click on finalize, a pdf copy will be created of the playlist you made and it will get saved on a server(location specified) 
